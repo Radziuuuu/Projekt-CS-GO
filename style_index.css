@@ -211,6 +211,10 @@ a.article:hover {
     aspect-ratio: 3/2;
 }
 
+.centered_video_photos {
+width: 50% ; 
+}
+
 * {
     cursor: default;
  }
